@@ -431,4 +431,5 @@ Write-Host "   Enabled Remote Desktop for VM management" -ForegroundColor Gray
 Write-Host "`n✅ VM optimization completed! Your Windows VM is now optimized for virtual environments." -ForegroundColor Cyan" -ErrorAction SilentlyContinue
 Write-Host "   Enabled Remote Desktop for VM management" -ForegroundColor Gray
 
-Write-Host "`n✅ VM optimization completed! Your Windows VM is now optimized for 
+Write-Host "`n✅ VM optimization completed! Your Windows VM is now optimized for virtual environments." -ForegroundColor Cyan
+
